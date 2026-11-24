@@ -1,0 +1,6 @@
+{
+  "name": "Pet — Dogs & Cats | Petshop, Grooming & Manajemen Stok",
+  "description": "Aplikasi penjualan barang dan jasa petshop modern dengan katalog produk, pendaftaran grooming WhatsApp & Payment Gateway, pelacakan pengiriman peta, manajemen stok real-time, dan laporan keuangan PDF otomatis.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
